@@ -1,0 +1,42 @@
+[
+  {
+    "id": "0",
+    "name": "All Recipe",
+    "recipe_image": "https://i.ibb.co/drSpmcJ/Recipe-Image.jpg"
+  },
+  {
+    "id": "1",
+    "name": "Meat",
+    "recipe_image": "https://i.ibb.co/cYGQ3Nc/Recipe-Image2.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Vegetables",
+    "recipe_image": "https://i.ibb.co/RSfd4xq/Recipe-Image3.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Fish",
+    "recipe_image": "https://i.ibb.co/PtXnjTn/Recipe-Image4.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Mixed",
+    "recipe_image": "https://i.ibb.co/drSpmcJ/Recipe-Image.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Desert",
+    "recipe_image": "https://i.ibb.co/RSfd4xq/Recipe-Image3.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Local",
+    "recipe_image": "https://i.ibb.co/PtXnjTn/Recipe-Image4.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Fry",
+    "recipe_image": "https://i.ibb.co/cYGQ3Nc/Recipe-Image2.jpg"
+  }
+]
