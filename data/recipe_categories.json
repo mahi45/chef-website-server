@@ -2,8 +2,8 @@
   {
     "id": "0",
     "chef_id": "chef00",
-    "name": "All Recipe",
-    "recipe_image": "https://i.ibb.co/drSpmcJ/Recipe-Image.jpg",
+    "name": "Pitha",
+    "recipe_image": "https://i.ibb.co/RBZ8vxY/recipe00.png",
     "recipe01": {
       "name": "Khicuri",
       "ingredients": "rice, Dal, etc"
@@ -16,8 +16,8 @@
   {
     "id": "1",
     "chef_id": "chef01",
-    "name": "Meat",
-    "recipe_image": "https://i.ibb.co/cYGQ3Nc/Recipe-Image2.jpg",
+    "name": "Polao with Meat",
+    "recipe_image": "https://i.ibb.co/kyPxHq2/recipe01.png",
     "recipe01": {
       "name": "Khicuri",
       "ingredients": "rice, Dal, etc"
@@ -30,8 +30,8 @@
   {
     "id": "2",
     "chef_id": "chef01",
-    "name": "Vegetables",
-    "recipe_image": "https://i.ibb.co/RSfd4xq/Recipe-Image3.jpg",
+    "name": "Egg Curry",
+    "recipe_image": "https://i.ibb.co/bRXxjG2/recipe02.png",
     "recipe01": {
       "name": "Khicuri",
       "ingredients": "rice, Dal, etc"
@@ -44,8 +44,8 @@
   {
     "id": "3",
     "chef_id": "chef01",
-    "name": "Fish",
-    "recipe_image": "https://i.ibb.co/PtXnjTn/Recipe-Image4.jpg",
+    "name": "Dried Chicked",
+    "recipe_image": "https://i.ibb.co/qknyLQ4/recipe03.png",
     "recipe01": {
       "name": "Khicuri",
       "ingredients": "rice, Dal, etc"
@@ -58,8 +58,8 @@
   {
     "id": "4",
     "chef_id": "chef02",
-    "name": "Mixed",
-    "recipe_image": "https://i.ibb.co/drSpmcJ/Recipe-Image.jpg",
+    "name": "Fish Curry",
+    "recipe_image": "https://i.ibb.co/VCy68hP/recipe04.png",
     "recipe01": {
       "name": "Khicuri",
       "ingredients": "rice, Dal, etc"
@@ -72,8 +72,8 @@
   {
     "id": "5",
     "chef_id": "chef05",
-    "name": "Desert",
-    "recipe_image": "https://i.ibb.co/RSfd4xq/Recipe-Image3.jpg",
+    "name": "Patisapta Pitha",
+    "recipe_image": "https://i.ibb.co/VDxywrk/recipe05.png",
     "recipe01": {
       "name": "Khicuri",
       "ingredients": "rice, Dal, etc"
@@ -86,8 +86,8 @@
   {
     "id": "6",
     "chef_id": "chef07",
-    "name": "Local",
-    "recipe_image": "https://i.ibb.co/PtXnjTn/Recipe-Image4.jpg",
+    "name": "Chicken Curry",
+    "recipe_image": "https://i.ibb.co/jfGdRnV/recipe06.png",
     "recipe_details": {
       "recipe_name": "Test Recipe01"
     }
@@ -95,8 +95,8 @@
   {
     "id": "7",
     "chef_id": "chef07",
-    "name": "Fry",
-    "recipe_image": "https://i.ibb.co/cYGQ3Nc/Recipe-Image2.jpg",
+    "name": "Chicken Leg Piece Fry",
+    "recipe_image": "https://i.ibb.co/qY1nytp/recipe07.png",
     "recipe_details": {
       "recipe_name": "Test Recipe01"
     }
