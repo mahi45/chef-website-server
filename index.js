@@ -9,7 +9,7 @@ const chefs = require("./data/chefs.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Chef website is running");
+  res.send("Bangldeshi Chef website is running");
 });
 
 app.get("/recipes", (req, res) => {
